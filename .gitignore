@@ -1,0 +1,16 @@
+# Build artifacts
+*.scr
+*.exe
+*.o
+*.d
+*.res
+build/
+
+# Debug captures
+captures/
+*.bmp
+
+# IDE files
+.idea/
+.vs/
+.vscode/

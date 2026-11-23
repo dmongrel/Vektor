@@ -1,0 +1,9 @@
+#include <windows.h>
+
+// String 1 is the name Windows shows in the Screen Saver dropdown.
+STRINGTABLE
+BEGIN
+    1 "Vektor"
+END
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "vektor.manifest"
